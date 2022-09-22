@@ -461,7 +461,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   width: 100%;
   display: table;
   overflow: hidden;
-  background-color: rgba(7, 7, 7, 0.945);
+  background-color: rgb(0, 0, 0);
   
 }
 .contenedor{
@@ -469,7 +469,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
-    width: 600px;
+    width: 800px;
     
 }
 
